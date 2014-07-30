@@ -8,7 +8,7 @@ For more information about this repository or if you have any questions, contact
 Useful Links
 ---
 
-[Leaflet]:http://leafletjs.com/
-[Leaflet GeoJSON API]:http://leafletjs.com/reference.html#geojson
-[GeoJSON Specification]:http://geojson.org/geojson-spec.html
-[jQuery]:http://jquery.com/
+[Leaflet](http://leafletjs.com/)
+[Leaflet GeoJSON API](http://leafletjs.com/reference.html#geojson)
+[GeoJSON Specification](http://geojson.org/geojson-spec.html)
+[jQuery](http://jquery.com/)
