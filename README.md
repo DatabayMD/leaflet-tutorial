@@ -9,6 +9,9 @@ Useful Links
 ---
 
 [Leaflet](http://leafletjs.com/)
+
 [Leaflet GeoJSON API](http://leafletjs.com/reference.html#geojson)
+
 [GeoJSON Specification](http://geojson.org/geojson-spec.html)
+
 [jQuery](http://jquery.com/)
