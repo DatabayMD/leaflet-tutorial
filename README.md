@@ -3,6 +3,10 @@ leaflet-tutorial
 
 A tutorial for integrating GeoJSON data from Maryland iMap into a Leaflet web application.
 
+[Interactive Example](http://dev.geodata.md.gov/GeoJSON_Example/)
+
+[Tutorial on Maryland iMap](http://imap.maryland.gov/Pages/app-development.aspx)
+
 For more information about this repository or if you have any questions, contact gio.doit@maryland.gov
 
 Summary
@@ -21,7 +25,7 @@ Leaflet is an open source Javascript mapping library that can be used to create 
 How to Run
 ---
 
-Clone this repository onto your computer. **For PC, clone it into C:/inetpub/wwwroot. To access the site, in your browser go to localhost/leaflet-turotial/index.html** (if you open it via C:/inetpub/wwwroot/leaflet-turotial/index.html the GeoJSON will not load). The user-defined Javascript code is located in js/map.js, and that is the file that you will want to change in order to make changes to the map. 
+Clone this repository onto your computer. This code will need to be run off of a local server. **For PC, clone it into C:/inetpub/wwwroot. To access the site, in your browser go to localhost/leaflet-turotial/index.html** (if you open it via C:/inetpub/wwwroot/leaflet-turotial/index.html the GeoJSON will not load). The user-defined Javascript code is located in js/map.js, and that is the file that you will want to change in order to make changes to the map. 
 
 To get a GeoJSON URL from [Maryland iMap](http://imap.maryland.gov/Pages/default.aspx), go to the [Maryland iMap Data page](http://data.imap.maryland.gov/) and select a category (or search at the top for a dataset). Once you have found a dataset you would like to integrate, click "Download" and then "API". Copy the GeoJSON URL and paste it into js/map.js, overwriting the current GeoJSON URL.
 
